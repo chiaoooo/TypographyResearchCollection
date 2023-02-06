@@ -175,6 +175,12 @@ This page is a research collection that includes computer graphics, computer vis
     
     ![](https://raw.githubusercontent.com/kaonashi-tyc/Rewrite/master/images/single_font_progress.gif)
 
+- **EasyFont_ A Style Learning-Based System to Easily Build Your Large-Scale Handwriting Fonts**
+    - 2023/ 梁佑駿
+    - [[paper]](https://dl.acm.org/doi/10.1145/3213767)
+    - Zhouhui Lian, Bo Zhao, and Jianguo Xiao
+    - 2018
+    
 - **Automatic generation of large-scale handwriting fonts via style learning**
     - [[paper]](https://dl.acm.org/citation.cfm?id=3005371)
     - Zhouhui Lian, Bo Zhao, and Jianguo Xiao
